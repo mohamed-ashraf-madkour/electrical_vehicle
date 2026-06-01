@@ -115,7 +115,13 @@ While Tesla currently leads the market, tracking growth among other manufacturer
 Encouraging CAFV-eligible vehicles can accelerate environmental sustainability goals.
 
 ----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
+# 📷 Dashboard Preview
 
+![Electrical_Vehicles Dashboard](snapshots/electrical_vehicles.png)
+
+----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 ## Project Workflow
 
 1. Data Collection
