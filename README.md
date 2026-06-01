@@ -118,7 +118,7 @@ Encouraging CAFV-eligible vehicles can accelerate environmental sustainability g
 ----------------------------------------------------------------------------------------------------------------
 # 📷 Dashboard Preview
 
-![Electrical_Vehicles Dashboard](snapshots/electrical_vehicles.png)
+![Electrical_Vehicles Dashboard](snapshots/electrical_vehicle.png)
 
 ----------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------
